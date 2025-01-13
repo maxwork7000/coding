@@ -1,0 +1,21 @@
+x = 1
+y = 0
+print(x or y)
+
+#
+
+x = 3 ** 2 ** 0
+print(x)
+
+#
+
+n = 2
+print(n)
+
+#
+
+a = 10
+b = 20
+c = 5
+print(a != b)
+print(a < b < c)
