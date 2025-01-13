@@ -1,21 +1,11 @@
-x = 1
-y = 0
-print(x or y)
 
-#
 
-x = 3 ** 2 ** 0
-print(x)
+While loop
 
-#
-
-n = 2
-print(n)
-
-#
-
-a = 10
-b = 20
-c = 5
-print(a != b)
-print(a < b < c)
+i = 0
+while i < 5:
+••••print(i, end=' ')
+••••i += 1
+else:
+••••print('DONE'
+, end=' ')
